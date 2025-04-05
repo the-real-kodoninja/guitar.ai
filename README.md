@@ -1,2 +1,2 @@
 # guitar.ai
-Guitar.ai, powered by Nimbus.ai, is the smart guitar trainer that learns with you. This app dynamically adjusts its lessons to match your progress, ensuring you're always challenged and engaged. Learn chords, scales, riffs, and songs from any genre with personalized instruction and AI-driven feedback...
+Guitar.ai, powered by Nimbus.ai, is the smart guitar trainer that learns with you. This app dynamically adjusts its lessons to match your progress, ensuring you're always challenged and engaged. Learn chords, scales, riffs, and songs from any genre with personalized instruction and AI-driven feedback. With Guitar.ai, you'll not only learn to play, but understand the music you create. Let Nimbus.ai guide your journey to guitar mastery.
